@@ -1,0 +1,47 @@
+{
+	"manifest_version": 2,
+	"minimum_chrome_version": "50",
+	
+	"name": "Babel",
+	"short_name": "Babel",
+	"author": "perceptron8",
+	"description": "Web Extension forcing 'The Settlers Online' to use the same language as your browser!",
+	"homepage_url": "https://github.com/perceptron8/babel.ext",
+	"version": "0.0.1",
+	
+	"default_locale": "en",
+	
+	"icons": {
+		"192": "icon.png"
+	}, 
+	
+	"browser_action": {
+		"default_icon": {
+			"128": "icon.png"
+		},
+		"default_title": "Babel"
+	},
+	
+	"content_scripts": [{
+		"matches": [
+			"http://juego-thesettlersonline.com/*",
+			"http://www.diesiedleronline.de/*",
+			"http://www.thesettlersonline.com/*",
+			"http://www.thesettlersonline.com.br/*",
+			"http://www.thesettlersonline.cz/*",
+			"http://www.thesettlersonline.es/*",
+			"http://www.thesettlersonline.fr/*",
+			"http://www.thesettlersonline.gr/*",
+			"http://www.thesettlersonline.it/*",
+			"http://www.thesettlersonline.net/*",
+			"http://www.thesettlersonline.nl/*",
+			"http://www.thesettlersonline.pl/*",
+			"http://www.thesettlersonline.ro/*",
+			"http://www.thesettlersonline.ru/*",
+			"http://www.tsotesting.com/*"
+		],
+		"js": [
+			"script.js"
+		]
+	}]
+}
