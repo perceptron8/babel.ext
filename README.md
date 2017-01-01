@@ -11,11 +11,11 @@ By simply translating one lang to another... oh wait! Wasn't that string replace
 
 ## Where?
 
-You will be able to install Babel with just one click soon.
+You can to install Babel with just one click (or will be able soon).
 
-- [Chrome Web Store]()
-- [Firefox add-ons]()
-- [Opera add-ons]()
+- [Chrome Web Store](https://chrome.google.com/webstore/detail/babel/lnheaccleeofnijkggobiigbojeoekaj)
+- Firefox add-ons
+- Opera add-ons
 
 ## Permissions
 
@@ -39,7 +39,7 @@ Babel needs to read and change your data on a number of websites:
 
 It's dangerous to install this kind of extensions from untrusted sources.
 
-This one is safe, however. Really, really.
+This one is safe, however. Really.
 
 ## Credits
 
