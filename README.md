@@ -15,7 +15,7 @@ You can to install Babel with just one click (or will be able soon).
 
 - [Chrome Web Store](https://chrome.google.com/webstore/detail/babel/lnheaccleeofnijkggobiigbojeoekaj)
 - [Firefox add-ons](https://addons.mozilla.org/en-US/firefox/addon/babel/)
-- Opera add-ons
+- [Opera add-ons](https://addons.opera.com/pl/extensions/details/babel/)
 
 ## Permissions
 
