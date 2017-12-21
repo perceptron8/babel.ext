@@ -3,7 +3,7 @@ Babel
 
 ![](icon.png)
 
-Web extension forcing [The Settlers Online](http://www.thesettlersonline.com/) to use the same language as your browser!
+Web extension forcing [The Settlers Online](https://www.thesettlersonline.com/) to use the same language as your browser!
 
 ## How?
 
@@ -21,21 +21,21 @@ You can to install Babel with just one click (or will be able soon).
 
 Babel needs to read and change your data on a number of websites:
 
-- http://juego-thesettlersonline.com
-- http://www.diesiedleronline.de
-- http://www.thesettlersonline.com
-- http://www.thesettlersonline.com.br
-- http://www.thesettlersonline.cz
-- http://www.thesettlersonline.es
-- http://www.thesettlersonline.fr
-- http://www.thesettlersonline.gr
-- http://www.thesettlersonline.it
-- http://www.thesettlersonline.net
-- http://www.thesettlersonline.nl
-- http://www.thesettlersonline.pl
-- http://www.thesettlersonline.ro
-- http://www.thesettlersonline.ru
-- http://www.tsotesting.com
+- https://juego-thesettlersonline.com
+- https://www.diesiedleronline.de
+- https://www.thesettlersonline.com
+- https://www.thesettlersonline.com.br
+- https://www.thesettlersonline.cz
+- https://www.thesettlersonline.es
+- https://www.thesettlersonline.fr
+- https://www.thesettlersonline.gr
+- https://www.thesettlersonline.it
+- https://www.thesettlersonline.net
+- https://www.thesettlersonline.nl
+- https://www.thesettlersonline.pl
+- https://www.thesettlersonline.ro
+- https://www.thesettlersonline.ru
+- https://www.tsotesting.com
 
 It's dangerous to install this kind of extensions from untrusted sources.
 
