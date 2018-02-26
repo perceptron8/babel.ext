@@ -1,7 +1,8 @@
 Babel
 =====
 
-![](icon.png)
+[![Torre di Babele](icon.png)](https://commons.wikimedia.org/wiki/File:Roelant_savery,_torre_di_babele,_1602,_02.JPG)
+
 
 Web extension forcing [The Settlers Online](https://www.thesettlersonline.com/) to use the same language as your browser!
 
