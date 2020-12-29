@@ -1,5 +1,8 @@
 {
 	"lang": {
 		"message": "en-us"
+	},
+	"realmLang": {
+		"message": "us"
 	}
 }

@@ -7,7 +7,7 @@
 	"author": "perceptron8",
 	"description": "Web Extension forcing 'The Settlers Online' to use the same language as your browser!",
 	"homepage_url": "https://github.com/perceptron8/babel.ext",
-	"version": "0.0.4",
+	"version": "0.0.5",
 	
 	"default_locale": "en",
 	
@@ -17,8 +17,8 @@
 	
 	"content_scripts": [{
 		"matches": [
-			"https://juego-thesettlersonline.com/*",
 			"https://www.diesiedleronline.de/*",
+			"https://www.juego-thesettlersonline.com/*",
 			"https://www.thesettlersonline.com/*",
 			"https://www.thesettlersonline.com.br/*",
 			"https://www.thesettlersonline.cz/*",
@@ -33,8 +33,7 @@
 			"https://www.thesettlersonline.ru/*",
 			"https://www.tsotesting.com/*"
 		],
-		"js": [
-			"script.js"
-		]
+		"run_at": "document_end",
+		"js": [ "script.js" ]
 	}]
 }
