@@ -7,7 +7,7 @@
 	"author": "perceptron8",
 	"description": "Web Extension forcing 'The Settlers Online' to use the same language as your browser!",
 	"homepage_url": "https://github.com/perceptron8/babel.ext",
-	"version": "0.0.5",
+	"version": "0.0.6",
 	
 	"default_locale": "en",
 	
